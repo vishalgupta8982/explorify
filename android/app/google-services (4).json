@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "663370581478",
+    "project_id": "explorify-3dfce",
+    "storage_bucket": "explorify-3dfce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:663370581478:android:6ac3b082489b6256064227",
+        "android_client_info": {
+          "package_name": "com.explorify"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDx9cWv96nx8EEnaHDrf6mNiiDrzfuCY5Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
